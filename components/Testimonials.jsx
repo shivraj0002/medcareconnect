@@ -24,9 +24,9 @@ const Testimonials = () => {
             </div>
             <blockquote>
               <p class="text-xl font-medium text-white">
-                "Dolore ullamco nisi laborum id magna excepteur aliquip. Nulla qui deserunt culpa magna amet sit elit. Laboris in enim nisi nulla est laborum occaecat aute eiusmod. Voluptate amet excepteur pariatur dolore ad commodo laborum amet cillum eiusmod culpa.
+                Dolore ullamco nisi laborum id magna excepteur aliquip. Nulla qui deserunt culpa magna amet sit elit. Laboris in enim nisi nulla est laborum occaecat aute eiusmod. Voluptate amet excepteur pariatur dolore ad commodo laborum amet cillum eiusmod culpa.
 
-                Ex ullamco nulla eiusmod occaecat in esse sunt sit id. Deserunt enim qui reprehenderit reprehenderit id et consequat magna incididunt. Id adipisicing consectetur ad esse sit officia consequat elit incididunt. Aute eu proident deserunt ea. Non in cupidatat non fugiat voluptate in occaecat."
+                Ex ullamco nulla eiusmod occaecat in esse sunt sit id. Deserunt enim qui reprehenderit reprehenderit id et consequat magna incididunt. Id adipisicing consectetur ad esse sit officia consequat elit incididunt. Aute eu proident deserunt ea. Non in cupidatat non fugiat voluptate in occaecat.
               </p>
             </blockquote>
             <figcaption class="flex items-center justify-center mt-6 space-x-3">
